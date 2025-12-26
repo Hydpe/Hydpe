@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!--Hi, I’m a Java Backend Developer
+Hi, 
+I’m a Java Backend Developer
 
 Java backend developer with hands-on experience in building scalable backend systems, RESTful APIs, and microservices architectures. I have worked on end-to-end full-stack applications, from database design to frontend integration, with practical exposure to containerization, cloud deployment, and CI/CD pipelines.
 
